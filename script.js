@@ -7,3 +7,21 @@ let b=20
 console.log(b)
 const c=30
 console.log(c)
+function hi(){
+    var a=10
+    var b=20
+    console.log(a+b)
+}
+hi()
+function i(a,b){
+    var c=a*b
+    console.log(c)
+}
+i(10,20)
+function fo(){
+    var arr=[]
+    var d=[20,"karthe",1.1,'k']
+    for( var i=0;i<=d.length;i++)
+        console.log(d[i])
+ }
+ fo()
