@@ -1,0 +1,22 @@
+.org{
+    width:200px;
+    height:40px;
+    background-color: rgb(250, 113, 15);
+}
+#wh{
+    width:200px;
+    height:40px;
+    background-color: rgb(241, 235, 230);
+}
+.blue{
+    width:38px;
+    height:38px;
+    border-radius:31px;
+    background-color: rgb(42, 164, 245);
+    margin-left:79px;
+}
+.green{
+    width:200px;
+    height:40px;
+    background-color: rgb(8, 136, 40);
+}
